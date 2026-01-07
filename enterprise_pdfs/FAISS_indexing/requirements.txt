@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+pdfplumber
+pytesseract
+pillow
+nltk
+scikit-learn
+sentence-transformers
+faiss-cpu
+numpy
